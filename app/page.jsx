@@ -1,6 +1,6 @@
 import HeaderFive from "@/components/headers/HeaderFive";
 import PersonalInfo from "@/components/personalInfo/PersonalInfo";
-import About from "@/components/About/About";
+import About from "@/components/about/About";
 import Resume from "@/components/resume/Resume";
 import Portfolio from "@/components/portfolio/Portfolio"
 import Blogs from "@/components/blogs/Blogs";
